@@ -1,12 +1,9 @@
 # Distributed_system_development
-2025 jlu 分布式软件开发
 
+吉林大学 分布式软件开发  
+Jilin University Distributed Software Development  
 
-2025 吉林大学 分布式软件开发  
-2025 Jilin University Distributed Software Development  
-
-## 小组成员（排名不分先后）  
-Team Members (In No Particular Order)  
+## 小组成员（排名不分先后）  Team Members (In No Particular Order)  
 
 董玉婷 55220403  
 Dong Yuting 55220403  

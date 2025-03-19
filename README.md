@@ -4,5 +4,6 @@
 Jilin University Distributed Software Development  
 
 Our project has moved to the new website:
-[window](joki-sr.github.io/SmartStride/)
+[window](https://joki-sr.github.io/SmartStride/))
+
 [repo](https://github.com/joki-sr/SmartStride)
